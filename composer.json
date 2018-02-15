@@ -1,5 +1,5 @@
 {
-    "name": "defcon2/imaclean",
+    "name": "hgati/defcon2-imaclean",
     "type": "magento-module",
     "description": "This extension allows to list all the product images that already are not in use and to erase them.",
     "homepage": "https://www.magentocommerce.com/magento-connect/image-clean.html",
