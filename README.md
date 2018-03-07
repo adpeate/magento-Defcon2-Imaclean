@@ -1,4 +1,5 @@
 # Magento: Image Clean
+#### packagist.org version
 
 This estension lists all the product images that they find in the directory "media/catalog/product" and that they do not in the database. It allows to select and to erase these files
 
