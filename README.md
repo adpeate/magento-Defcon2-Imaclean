@@ -22,25 +22,12 @@ This estension lists all the product images that they find in the directory "med
 - 1.9.1
 - 1.9.2
 
-## Magento Connect: 
-https://www.magentocommerce.com/magento-connect/image-clean.html
-
 ## Installation:
 
-### Via modman
-```
-modman clone https://github.com/sreichel/magento-Defcon2-Imaclean.git
-```
 ### Via composer:
 ```
 {
     "require": {
-        "defcon2/imaclean": "*",
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/sreichel/magento-Defcon2-Imaclean.git"
-        }
-    ]
+        "hgati/defcon2-imaclean": "dev-master"
+    }
 }
