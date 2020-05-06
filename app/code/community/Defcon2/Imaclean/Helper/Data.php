@@ -40,7 +40,7 @@ class Defcon2_Imaclean_Helper_Data extends Mage_Core_Helper_Abstract
         $resource = $model->getResource();
         $connection = $resource->getReadConnection();
         $connection->truncateTable($resource->getMainTable());
-        $connection->changeTableAutoIncrement($resource->getMainTable(), 1);
+//        $connection->changeTableAutoIncrement($resource->getMainTable(), 1);
 
         $path = 'media' . DS . 'catalog' . DS . 'product';
         $files = $this->listDirectories($path);
