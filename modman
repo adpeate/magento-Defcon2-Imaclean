@@ -1,3 +1,3 @@
 app/code/community/Defcon2/Imaclean                              app/code/community/Defcon2/Imaclean
-app/etc/modules/*                                                app/etc/modules/
-shell/*                                                          shell/
+app/etc/modules/Defcon2_Imaclean.xml                             app/etc/modules/Defcon2_Imaclean.xml
+shell/imaclean.php                                               shell/imaclean.php
